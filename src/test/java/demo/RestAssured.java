@@ -10,6 +10,6 @@ public class RestAssured
 	
 	public void test2()
 	{
-		
+		System.out.println("added by second user after cloning");
 	}
 }
