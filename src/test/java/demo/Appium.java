@@ -4,6 +4,6 @@ public class Appium
 {
 	public void test1()
 	{
-		System.out.println("Appium Java +");
+		System.out.println("Appium Java ++");
 	}
 }
